@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29553680420",
+    "firebase_url": "https://kanzul-haya-4e6f7.firebaseio.com",
+    "project_id": "kanzul-haya-4e6f7",
+    "storage_bucket": "kanzul-haya-4e6f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29553680420:android:362e895771e5fd1447f8b1",
+        "android_client_info": {
+          "package_name": "flutter.knzhy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29553680420-jh80h1f6ptnqm5k50b268ge76j85uth3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHekvjpQHpQwb6HfRzRYOso5XY1hg8Xv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29553680420-jh80h1f6ptnqm5k50b268ge76j85uth3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
